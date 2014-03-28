@@ -1,0 +1,1 @@
+Basic HTML5 template for static pages
